@@ -18,7 +18,12 @@ pip install pandas matplotlib
 
 Para executar o projeto, basta executar o script `python main.py`:
 
-Isso irá gerar o gráfico de dispersão com os dados de exemplo.
+Isso irá gerar o seguinte gráfico de dispersão com os dados de exemplo:
+
+<p align="center">
+  <img src="https://github.com/manuggetts/analise-dados-python/assets/141872152/74d5a37b-1f1c-4ddf-b593-6bf2ff4f37fc" alt="Gráfico de Dispersão">
+</p>
+
 
 ## Contribuição
 
